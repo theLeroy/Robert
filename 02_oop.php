@@ -31,6 +31,8 @@ echo $obj->public; // Funktioniert
 echo $obj->protected; // Fataler Fehler
 echo $obj->private; // Fataler Fehler
 
+//Sowiti weis bruchtme das o no um zb variable in functions zsave. Weme ize zum bischpiu mysql pw het de machtme das sicher privat. Giz no angeri Awendige?
+
 
 // Was o immer konstruktor isch. das Gset ir bim nächschte mau!
 
